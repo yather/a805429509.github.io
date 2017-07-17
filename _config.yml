@@ -1,7 +1,7 @@
 # Site settings
 name: blog
 email: 805429509@qq.com
-baseurl: "/blog"
+baseurl: ""
 description: Actually, less is more!
 meta_description: 个人博客
 motto: It's our wits that make us men.
