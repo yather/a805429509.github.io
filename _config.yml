@@ -1,12 +1,12 @@
 # Site settings
-name: Less Or More
-email: luoyan35714@126.com
+name: 小强笔记
+email: 805429509@qq.com
 author: Freud Kang
 url: http://www.hifreud.com
 resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/luoyan35714/
 baseurl: ""
-description: Actually, less is more!
+description: 这个项目专门用来做笔记。之后也会逐步把自己整理的一些个人笔记迁移到这里。 
 meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
