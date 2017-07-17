@@ -20,4 +20,17 @@ header: 打赏
 >声明: 此博客空间用于分享作者个人的一些技术相关， 此网站基于[MIT开源协议](https://github.com/luoyan35714/LessOrMore/blob/master/LICENSE)所有内容完全免费，请放心使用。
 
 
+<hr>
+
+赞助方式一：`支付宝二维码付款`
+------------------------------
+
+<hr>
+您可以选择手机支付宝扫一扫
+
+<img src="{{ '/styles/images/zhifubao.jpg' | prepend: site.baseurl }}" alt="支付宝二维码付款给Freud" width="310" />
+
+<br>
+<br>
+
 
