@@ -7,7 +7,7 @@ resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/luoyan35714/
 baseurl: ""
 description: 这个项目专门用来做笔记。之后也会逐步把自己整理的一些个人笔记迁移到这里。 
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+# meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
 
