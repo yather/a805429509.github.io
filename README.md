@@ -1,3 +1,52 @@
+> 这个项目专门用来做笔记。之后也会逐步把自己整理的一些个人笔记迁移到这里。  
+> 将囊括mysql、mac、centos、oracle、python、java、sqlserver、前端、以及一些日常的随记等
+
+
+# 常用实例
+
+```
+代码块
+```
+
+> 引用 yes ✓ no ✘
+
+[百度](https://www.baidu.com)
+
+![百度logo](https://www.baidu.com/img/bd_logo1.png)
+
+有序列表
+1. a
+2. b
+3. c
+
+无序列表
+- a
+- b
+- c
+
+
+
+
+| 水果 | 价格 | 数量 |
+| --  | -- | -- |
+| 香蕉 | 1 | 1 |
+| 苹果222 | 2 | 2 |
+
+分割线
+---
+
+:hankey:
+
+[代码提交的emoji表情](https://gitmoji.carloscuesta.me/)
+
+[emoji表情大全](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+
+
+- [ ] c++
+- [x] java
+
+
 # LessOrMore
 
 
