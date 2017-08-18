@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  单词本
+title:  vocabulary_list
 date:   2017-07-19 00:00:00 +0800
 categories: english
-tag: 单词本
+tag: vocabulary_list
 ---
 
 * content
