@@ -9,7 +9,7 @@ tag: vocabulary_list
 * content
 {:toc}
 
-day 1(家具)
+part 1(家具)
 ---
 
 | 中文 | 英文 |
@@ -25,4 +25,23 @@ day 1(家具)
 | 地毯 | carpet |
 | 玻璃杯 | glass |
 
+
+part 2(游戏)
+---
+
+| 中文 | 英文 |
+| -- | -- |
+| 开始 | start | 
+| 选择 | choose |
+| 设置 | setting |
+| 选项 | option |
+| 游戏 | game |
+| 退出 | exit |
+| 攻击 | attack | 
+| 防御 | defence |
+| 跳跃 | jump |
+| 上 | top |
+| 下 | down |
+| 左 | left |
+| 右 | right |
 
