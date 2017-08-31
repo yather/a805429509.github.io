@@ -27,6 +27,7 @@ ERR_LOG_TABLE_OWNER VARCHAR2 IN   Y
 ERR_LOG_TABLE_SPACE VARCHAR2 IN   Y        
 SKIP_UNSUPPORTED    BOOLEAN  IN   Y        
 SQL> 
+--默认会创建ERR$_SOURCE表，在``第二个``参数可以自己输入表名 
 ```
 
 创建源表source的目标表dest
@@ -37,7 +38,7 @@ BEGIN
 END;
 ```
 
-默认会创建ERR$_SOURCE表，在``第二个``参数可以自己输入表名  
+ 
 在insert语句后按照固定格式填写，即可在RR$_SOURCE查看insert的不合法数据
 ---
 ```sql
