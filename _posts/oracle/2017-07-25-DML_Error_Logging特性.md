@@ -38,7 +38,7 @@ END;
 ```
 
 默认会创建ERR$_SOURCE表，在``第二个``参数可以自己输入表名  
-在insert语句后按照固定格式填写，即可在RR$_SOURCE查看insert的不合法数据  
+在insert语句后按照固定格式填写，即可在RR$_SOURCE查看insert的不合法数据
 ---
 ```sql
 INSERT INTO dest
