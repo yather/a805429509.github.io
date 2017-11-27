@@ -1,13 +1,13 @@
 # Site settings
-name: 小强笔记
+name: yather笔记
 email: 805429509@qq.com
-author: 小强
+author: yatheryather
 url: https://github.com/a805429509/
 resume_site: https://github.com/luoyan35714/LessOrMore
 github: https://github.com/a805429509/
 baseurl: ""
 description: 这个项目专门用来做笔记。之后也会逐步把自己整理的一些个人笔记迁移到这里。 
-motto: 小强笔记
+motto: yather笔记
 banner: 学而不思则罔，思而不学则殆。
 
 #permalink: /:categories/:year/:month/:day/:title/
